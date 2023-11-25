@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 * {
+=======
+*{
+>>>>>>> Yehor
     margin: 0;
     padding: 0;
 }
 
+<<<<<<< HEAD
 .welcome {
     background-color: black;
     height: 400px;
@@ -28,4 +33,26 @@ img {
     width: 100%;
     background-color: red;
     color: white;
+=======
+body {
+    background-color: gray;
+}
+
+#main{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+}
+
+#text {
+    
+>>>>>>> Yehor
 }
