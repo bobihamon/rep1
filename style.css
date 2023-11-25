@@ -1,13 +1,8 @@
-<<<<<<< HEAD
 * {
-=======
-*{
->>>>>>> Yehor
     margin: 0;
     padding: 0;
 }
 
-<<<<<<< HEAD
 .welcome {
     background-color: black;
     height: 400px;
@@ -33,7 +28,11 @@ img {
     width: 100%;
     background-color: red;
     color: white;
-=======
+}*{
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-color: gray;
 }
@@ -54,5 +53,4 @@ img {
 
 #text {
     
->>>>>>> Yehor
 }
